@@ -1,0 +1,6 @@
+tikzplotlib==0.9.6
+nbstripout==0.3.7
+jupyterlab==2.0.1
+import_ipynb
+scipy
+tqdm

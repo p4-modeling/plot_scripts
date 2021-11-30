@@ -1,0 +1,10 @@
+.*.sw*
+
+*.tsv
+*.tex
+*.pdf
+build/
+
+*__pycache__*
+*ipynb_checkpoints*
+*venv*
